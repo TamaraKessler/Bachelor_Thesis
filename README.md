@@ -1,4 +1,4 @@
-# TestBachelorthesis
+# Bachelor Thesis
 
 This repository includes the data of the study conducted for my Bachelor's thesis.
 
