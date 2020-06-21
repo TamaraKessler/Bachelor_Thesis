@@ -6,4 +6,4 @@ This repository includes the data of the study conducted for my Bachelor's thesi
 - The file "analysis_confidence_motor_dynamics" includes code for the pre-registered analysis, 
   as well as for all supplementary material that appears within the thesis
 - The "simplified_classification" file includes the full experiment for OpenSesame 
-- "BachelorThesis_final" is a full digital version of the thesis
+- "BachelorThesis" is a full digital version of the thesis
